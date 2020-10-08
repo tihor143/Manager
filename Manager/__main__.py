@@ -20,7 +20,7 @@ from Manager.modules.helper_funcs.chat_status import is_user_admin
 from Manager.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello {}, my name is {}!
+Hello dear {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you.
 
